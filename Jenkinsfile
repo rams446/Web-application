@@ -7,7 +7,7 @@ pipeline
 		{
 			steps
 			{
-				git 'https://github.com/rams446/demo-java.git'
+				git 'https://github.com/rams446/Web-application.git'
 			}
 		}
 		
